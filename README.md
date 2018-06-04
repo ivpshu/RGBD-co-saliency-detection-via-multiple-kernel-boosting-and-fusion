@@ -5,7 +5,8 @@ This code is for
 and can only be used for non-comercial purpose.  
 If you use our code, please cite [1].  
 
-As for some technique problems of github, our code and result can be download in
+As for some technique problems of github, our code and result can be download in  
+https://pan.baidu.com/s/1AGepxtJite7GJsrmyJ37rQ
 
 
 Date: 4/6/2018
